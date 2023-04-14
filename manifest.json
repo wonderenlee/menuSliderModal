@@ -1,6 +1,6 @@
 {
     "name": "PWA Menu Slider and Modal",
-    "short_name": "MenuSlideMod",
+    "short_name": "menuSlideMod",
     "description": "A progressive web app for a menu slider and modal",
     "start_url": "/form-validator/",
     "display": "standalone",

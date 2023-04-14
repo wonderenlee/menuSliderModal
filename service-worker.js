@@ -1,6 +1,6 @@
 self.addEventListener("install", (event) => {
     event.waitUntil(
-      caches.open("menuslide-cache-v1").then((cache) => {
+      caches.open("menuSlideMod-cache-v1").then((cache) => {
         return cache.addAll(["/", "index.html", "app.js","manifest.json", "icon-192x192.png", "icon-512x512.png"]);
       })
     );
