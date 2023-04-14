@@ -2,7 +2,7 @@
     "name": "PWA Menu Slider and Modal",
     "short_name": "menuSlideMod",
     "description": "A progressive web app for a menu slider and modal",
-    "start_url": "/form-validator/",
+    "start_url": "/menuSliderModal/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
