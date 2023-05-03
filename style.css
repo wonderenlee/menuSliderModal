@@ -2,7 +2,7 @@
 
 :root {
   --modal-duration: 1s;
-  --primary-color: #30336b;
+  --primary-color: #3a0073;
   --secondary-color: #be2edd;
 }
 
@@ -41,7 +41,7 @@ nav .logo {
 
 nav .logo img {
   height: 75px;
-  width: 75px;
+  width: 75%75px;
   border-radius: 50%;
 }
 
@@ -193,4 +193,10 @@ button:focus {
   to {
     opacity: 1;
   }
+}
+
+.img {
+  width: 50%;
+  height: 50%;
+  object-fit: cover;
 }
